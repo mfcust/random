@@ -18,8 +18,8 @@ Copy and paste this code into your python file to see what it does!
 
 
 Function methods you will learn about and use in this assignment:
-random.randint()
-random.seed()
-random.uniform()
-random.randrange()
-random.choice()
+random.randint()  
+random.seed()  
+random.randrange()  
+random.uniform()  
+random.choice()  

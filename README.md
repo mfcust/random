@@ -17,7 +17,7 @@ Copy and paste this code into your python file to see what it does!
 
 
 
-Function methods you will learn about and use in this assignment:
+Function methods you will learn about and use in this assignment:  
 random.randint()  
 random.seed()  
 random.randrange()  
